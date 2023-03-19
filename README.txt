@@ -1,0 +1,3 @@
+ĐỒ ÁN ĐẦU TIÊN VỀ CƠ SỞ LẬP TRÌNH
+VIẾT CHƯƠNG TRÌNH C++ TRẢ LỜI 10 CÂU HỎI TRẮC NHIỆM
+SINH VIÊN THỰC HIỆN: 3120410046 - ĐẶNG CHÍ BẢO
